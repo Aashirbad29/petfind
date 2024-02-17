@@ -7,7 +7,9 @@ const Appbar = () => {
     <div>
       <AppBar position="static">
         <Toolbar>
-          <IconButton></IconButton>
+          <IconButton>
+            <LocalLibraryRoundedIcon />
+          </IconButton>
         </Toolbar>
       </AppBar>
     </div>
